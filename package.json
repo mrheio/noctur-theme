@@ -3,7 +3,7 @@
     "displayName": "noctur",
     "description": "Dark theme.",
     "publisher": "drg",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "module",
     "icon": "theme-icon.png",
     "engines": {
