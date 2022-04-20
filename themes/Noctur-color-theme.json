@@ -304,7 +304,8 @@
                 "source.scss support.type.property-name",
                 "source.less support.type.property-name",
                 "source.stylus support.type.property-name",
-                "source.postcss support.type.property-name"
+                "source.postcss support.type.property-name",
+                "meta.property-name"
             ],
             "settings": {
                 "foreground": "#dee1e3"
