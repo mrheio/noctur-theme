@@ -102,7 +102,12 @@
         },
         {
             "name": "Variables",
-            "scope": ["variable", "string constant.other.placeholder", "text"],
+            "scope": [
+                "variable",
+                "variable.parameter",
+                "string constant.other.placeholder",
+                "text"
+            ],
             "settings": {
                 "foreground": "#dee1e3"
             }
@@ -239,11 +244,10 @@
                 "constant.character",
                 "constant.escape",
                 "keyword.other.unit",
-                "keyword.other",
-                "variable.parameter"
+                "keyword.other"
             ],
             "settings": {
-                "foreground": "#dee1e3"
+                "foreground": "#ff6a80"
             }
         },
         {
@@ -289,7 +293,7 @@
                 "meta.property-value.css"
             ],
             "settings": {
-                "foreground": "#ffa763"
+                "foreground": "#ff6a80"
             }
         },
         {

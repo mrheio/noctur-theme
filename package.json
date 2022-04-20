@@ -2,6 +2,7 @@
     "name": "noctur",
     "displayName": "noctur",
     "description": "Dark theme.",
+    "publisher": "drg",
     "version": "1.0.0",
     "type": "module",
     "icon": "theme-icon.png",
@@ -22,5 +23,8 @@
     },
     "dependencies": {
         "node-fetch": "^3.2.3"
+    },
+    "repository": {
+        "url": "https://github.com/mrheio/noctur-theme"
     }
 }
