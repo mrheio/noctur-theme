@@ -1,0 +1,26 @@
+{
+    "name": "noctur",
+    "displayName": "noctur",
+    "description": "Dark theme.",
+    "version": "1.0.0",
+    "type": "module",
+    "icon": "theme-icon.png",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Noctur",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noctur-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "node-fetch": "^3.2.3"
+    }
+}

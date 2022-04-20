@@ -1,0 +1,6 @@
+{
+    "name": "Noctur",
+    "type": "dark",
+    "colors": "${editorColors}",
+    "tokenColors": ["${tokenColors}"]
+}
