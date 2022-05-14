@@ -7,7 +7,7 @@
         "titleBar.inactiveBackground": "#1f252a",
         "titleBar.border": "#00000060",
         "editor.background": "#1f252a",
-        "editor.foreground": "#939da5",
+        "editor.foreground": "#bec4c9",
         "editor.selectionBackground": "#204062",
         "editor.selectionHighlightBorder": "#939da5",
         "editor.wordHighlightBackground": "#939da530",
@@ -131,7 +131,7 @@
             "name": "Operators",
             "scope": ["keyword.operator"],
             "settings": {
-                "foreground": "#bec4c9"
+                "foreground": "#89ddff"
             }
         },
         {
@@ -327,7 +327,7 @@
             "name": "Language methods",
             "scope": ["variable.language"],
             "settings": {
-                "foreground": "#bec4c9"
+                "foreground": "#89ddff"
             }
         },
         {
